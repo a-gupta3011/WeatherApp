@@ -17,7 +17,7 @@ import org.json.JSONObject;
 
 public class WeatherAppGUI extends JFrame {
 
-    private static final String API_KEY = "4dfe5cf28505fb54d27842cece069379"; 
+    private static final String API_KEY = "Enter API key"; //API Key from openweathermap
     private static final String CURRENT_WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?q=";
     private static final String FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast?q=";
 
